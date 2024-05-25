@@ -97,7 +97,7 @@ export default function FAQ(props: Props) {
     <>
       {(!layout?.variation || layout?.variation === "Compact") && (
         <div class="w-full container px-4 py-8 flex flex-col gap-4 lg:gap-8 lg:py-10 lg:px-40">
-        <script dangerouslySetInnerHTML={{_html:`alert('test');`}}></script>
+        <script dangerouslySetInnerHTML={{__html:`alert('test');`}}></script>
           <div class="flex flex-col gap-8 lg:gap-10">
             <Header
               title={title || ""}
