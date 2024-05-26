@@ -86,7 +86,7 @@ const DEFAULT_PROPS = {
       alt: "/feminino",
       action: {
         title: "New collection",
-        subTitle: "Main title",
+        subTitle: "Main titkmle",
         label: "Explore collection",
         href: "/",
       },

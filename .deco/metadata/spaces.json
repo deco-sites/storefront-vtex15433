@@ -1320,7 +1320,7 @@
                 "isClosable": true,
                 "reorderEnabled": true,
                 "title": "",
-                "activeItemIndex": 1,
+                "activeItemIndex": 0,
                 "content": [
                   {
                     "id": "%2F.deco%2Fblocks%2FPreview%2520site%252Fsections%252FImages%252FCarousel.tsx.json::Preview::world::Preview::%7B%7D",
@@ -1329,17 +1329,6 @@
                     "componentName": "component",
                     "componentState": {
                       "id": "%2F.deco%2Fblocks%2FPreview%2520site%252Fsections%252FImages%252FCarousel.tsx.json::Preview::world::Preview::%7B%7D"
-                    },
-                    "isClosable": true,
-                    "reorderEnabled": true
-                  },
-                  {
-                    "id": "%2F.deco%2Fblocks%2FPreview%2520site%252Fsections%252FImages%252FCarousel.tsx.json::Code::code::Code::%7B%7D",
-                    "title": "<div class=\"contents text-base-700\" id=\"header-%2F.deco%2Fblocks%2FPreview%2520site%252Fsections%252FImages%252FCarousel.tsx.json::Code::code::Code::%7B%7D\" />",
-                    "type": "component",
-                    "componentName": "component",
-                    "componentState": {
-                      "id": "%2F.deco%2Fblocks%2FPreview%2520site%252Fsections%252FImages%252FCarousel.tsx.json::Code::code::Code::%7B%7D"
                     },
                     "isClosable": true,
                     "reorderEnabled": true
@@ -1386,18 +1375,6 @@
           "id": "%2F.deco%2Fblocks%2FPreview%2520site%252Fsections%252FImages%252FCarousel.tsx.json::Preview::world::Preview::%7B%7D",
           "state": {
             "__signal": null
-          }
-        },
-        "%2F.deco%2Fblocks%2FPreview%2520site%252Fsections%252FImages%252FCarousel.tsx.json::Code::code::Code::%7B%7D": {
-          "name": "Code",
-          "icon": "code",
-          "accepts": "function",
-          "render": "function",
-          "viewId": "Code",
-          "id": "%2F.deco%2Fblocks%2FPreview%2520site%252Fsections%252FImages%252FCarousel.tsx.json::Code::code::Code::%7B%7D",
-          "state": {
-            "__signal": null,
-            "value": null
           }
         },
         "%2F.deco%2Fblocks%2FPreview%2520site%252Fsections%252FImages%252FCarousel.tsx.json::Code::code::Code::%7B%22spaceId%22%3A%22%2Fcomponents%2Fui%2FBannerCarousel.tsx%22%7D": {
