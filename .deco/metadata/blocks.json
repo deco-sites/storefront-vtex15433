@@ -320,5 +320,9 @@
   "/.deco/blocks/Preview%20%2Fsections%2FContent%2FFaq.tsx.json": {
     "blockType": "sections",
     "__resolveType": "site/sections/Content/Faq.tsx"
+  },
+  "/.deco/blocks/Preview%20site%2Fsections%2FImages%2FCarousel.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Images/Carousel.tsx"
   }
 }
